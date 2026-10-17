@@ -1,15 +1,59 @@
-# 欢迎来到 528.im
+<div class="home-hero" markdown>
 
-这里是 528.im 的文档与开源项目中心。
+<p class="home-eyebrow">528.IM · 文档与开源项目中心</p>
 
-你可以通过页面顶部的主导航在首页、开源、文档和关于之间切换；进入栏目后，左侧导航会按主题展示该栏目的页面。
+# 把想法写清楚，<br>让下一步更简单。
 
-## 从这里开始
+这里汇集 528.im 的专题研究、开源项目和使用文档。从一个问题出发，找到可以继续推进的路径。
 
-- 在[开源项目](open-source/index.md)中了解正在维护的项目与参与方式。
-- 阅读[快速开始](guides/index.md)，了解这个站点的内容结构。
-- 查看[关于本站](about.md)，了解 528.im 的定位。
+<div class="home-actions" markdown>
 
-!!! info "正在建设"
+[探索专题](netdisk-growth/index.md){ .home-button .home-button-primary }
+[查看开源项目](open-source/index.md){ .home-button .home-button-secondary }
 
-    当前站点基础设施已经完成配置，正式内容将陆续发布。
+</div>
+
+</div>
+
+<div class="home-section" markdown>
+
+<p class="home-eyebrow">浏览内容</p>
+
+## 从你关心的主题开始
+
+<div class="home-card-grid" markdown>
+
+<a class="home-card" href="netdisk-growth/">
+  <span class="home-card-label">专题研究</span>
+  <strong>网盘拉新</strong>
+  <span>从商业模型、内容与搜索，到验证指标和合规边界。</span>
+  <span class="home-card-link">阅读专题 <span aria-hidden="true">↗</span></span>
+</a>
+
+<a class="home-card" href="open-source/">
+  <span class="home-card-label">共同构建</span>
+  <strong>开源项目</strong>
+  <span>了解正在维护的项目、路线图，以及如何参与贡献。</span>
+  <span class="home-card-link">查看项目 <span aria-hidden="true">↗</span></span>
+</a>
+
+<a class="home-card" href="guides/">
+  <span class="home-card-label">使用指南</span>
+  <strong>站点文档</strong>
+  <span>快速开始，学习站点配置、内容编写和发布部署。</span>
+  <span class="home-card-link">打开文档 <span aria-hidden="true">↗</span></span>
+</a>
+
+</div>
+
+</div>
+
+<div class="home-note" markdown>
+
+<p class="home-eyebrow">持续更新</p>
+
+## 内容还在生长。
+
+站点基础设施已经完成配置，更多正式内容会陆续发布。你也可以先了解 [528.im 是什么](about.md) 或查看 [项目路线图](open-source/roadmap.md)。
+
+</div>
