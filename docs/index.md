@@ -2,15 +2,13 @@
 
 <p class="home-eyebrow">528.IM · 文档与开源项目中心</p>
 
-# 把想法写清楚，<br>让下一步更简单。
+# 把想法写清楚，让下一步更简单。
 
 这里汇集 528.im 的专题研究、开源项目和使用文档。从一个问题出发，找到可以继续推进的路径。
 
-<div class="home-actions" markdown>
-
-[探索专题](netdisk-growth/index.md){ .home-button .home-button-primary }
-[查看开源项目](open-source/index.md){ .home-button .home-button-secondary }
-
+<div class="home-actions">
+  <a class="home-button home-button-primary" href="netdisk-growth/">探索专题</a>
+  <a class="home-button home-button-secondary" href="open-source/">查看开源项目</a>
 </div>
 
 </div>
@@ -21,7 +19,7 @@
 
 ## 从你关心的主题开始
 
-<div class="home-card-grid" markdown>
+<div class="home-card-grid">
 
 <a class="home-card" href="netdisk-growth/">
   <span class="home-card-label">专题研究</span>
